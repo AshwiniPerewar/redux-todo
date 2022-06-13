@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "value": "hello",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "value": "hello india",
+      "completed": true
+    },
+    {
+      "id": "44000b6e-8275-4636-9d93-943a388c3266",
+      "value": "kjlug",
+      "completed": false
+    },
+    {
+      "id": "cefa4331-d4c6-40dd-a2e0-94523c7a7789",
+      "value": "HJ",
+      "completed": false
+    }
+  ]
+}
